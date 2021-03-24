@@ -4,4 +4,4 @@
 
 # Main repository
 
-[Click here](https://github.com/anehajahlu/callsmusictelegram)
+[Click here](https://github.com/anehajahlu/callsmusic-2)
